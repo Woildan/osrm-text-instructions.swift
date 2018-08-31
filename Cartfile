@@ -1,1 +1,1 @@
-github "mapbox/MapboxDirections.swift" ~> 0.19.1
+github "Mappy/MapboxDirections.swift" "v0.22.0-mappy.6"
